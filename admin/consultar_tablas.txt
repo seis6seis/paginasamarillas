@@ -1,0 +1,2 @@
+mysql -h 192.168.1.10 -D hack_paginasamarillas -u root -p0707
+show table status;

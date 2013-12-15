@@ -1,0 +1,20 @@
+.tree li{
+	font-size: 18px;
+	padding: 5px;
+}
+.Contenido{
+	margin-left: 10px;
+}
+#status{
+	float: right;
+}
+
+a.descarga-tabla:link, a.descarga-tabla:active, a.descarga-tabla:visited {
+	color:#000000;
+	text-decoration: underline;
+}
+
+a.descarga-tabla:hover{
+	color:#1D7292;
+	text-decoration: underline;
+}
